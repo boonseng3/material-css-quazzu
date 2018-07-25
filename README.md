@@ -11,4 +11,5 @@ The page consist of the following components:
 3.  Side Navigation for small devices
 4.  Showcase
 5.  Icon boxes
-6.  About Us
+6.  About Us section
+7.  Developers section (image overlay with primary color)
