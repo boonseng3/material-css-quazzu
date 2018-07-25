@@ -14,3 +14,4 @@ The page consist of the following components:
 6.  About Us section
 7.  Developers section (image overlay with primary color)
 8.  Languages section
+9.  Podcast section
