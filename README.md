@@ -16,3 +16,4 @@ The page consist of the following components:
 8.  Languages
 9.  Podcast
 10. Testimonials Carousel
+11. Footer
