@@ -42,3 +42,14 @@ The page consist of the following components:
     4.  Showcase
     5.  Solutions About
     6.  Features
+
+3.  signup.html
+
+    1.  Transparent Navigation bar
+
+    2.  Header with background image
+
+    3.  Side Navigation for small devices
+
+    4.  Showcase
+    5.  Sign up form
