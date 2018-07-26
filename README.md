@@ -41,3 +41,4 @@ The page consist of the following components:
 
     4.  Showcase
     5.  Solutions About
+    6.  Features
