@@ -17,3 +17,4 @@ The page consist of the following components:
 9.  Podcast
 10. Testimonials Carousel
 11. Footer
+12. Login Modal
